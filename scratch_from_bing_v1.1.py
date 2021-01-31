@@ -3,7 +3,7 @@
 """
 @AUTHOR:
 @FILE:scratch_from_bing_v1.1.py
-@NAME:my_insightface
+@NAME:
 @TIME:2021/01/31
 @IDE: PyCharm
 @Ref:https://github.com/taojianglong/python-crawler
