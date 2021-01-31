@@ -1,0 +1,1 @@
+# scratch_images_from_baidu-bing-sougou
