@@ -3,7 +3,7 @@
 """
 @AUTHOR:
 @FILE:scratch_from_baidu_v1.1.py
-@NAME:my_insightface
+@NAME:
 @TIME:2021/01/31
 @IDE: PyCharm
 @Ref:
@@ -93,7 +93,7 @@ class ScratchImageFromBaidu(object):
 if __name__ == '__main__':
     name_list = get_names()
     scratch_baidu = ScratchImageFromBaidu()
-    # scratch_baidu.get_image_urls('胡锦涛',)
+    # scratch_baidu.get_image_urls('美女',)
     for i in range(len(name_list)):
         images_urls = scratch_baidu.get_image_urls(name_list[i][5:],)
         write_urls2txt(name_list[i], images_urls, scratch_baidu.urls_dir, 'baidu')
