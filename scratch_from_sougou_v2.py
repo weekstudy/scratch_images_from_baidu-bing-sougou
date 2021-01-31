@@ -3,7 +3,7 @@
 """
 @AUTHOR:
 @FILE:scratch_from_search.py
-@NAME:my_insightface
+@NAME:
 @TIME:2021/01/31
 @IDE: PyCharm
 
